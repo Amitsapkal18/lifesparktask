@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033226844002",
+    "project_id": "amitlifesparkdemo",
+    "storage_bucket": "amitlifesparkdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033226844002:android:aff721c12d60a88df2de3b",
+        "android_client_info": {
+          "package_name": "com.amit.lifesparktask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr0pu-CzZtPnd8-87GQx1WKaH1KOTzgZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
